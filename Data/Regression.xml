@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="TestSuite">
+
+	<test name="AddContactTest">
+		<parameter name="userName" value="techfiosdemo@gmail.com" />
+		<parameter name="password" value="abc123" />
+		<parameter name="name" value="john smith" />
+		<parameter name="company" value="nokia" />
+		<parameter name="email" value="Johnsmith@gmail.com" />
+		<parameter name="phone" value="3474307205" />
+		<parameter name="address" value="250 irving rd" />
+		<parameter name="city" value="dallas" />
+		<parameter name="state" value="Texas" />
+		<parameter name="zip" value="11417" />
+		<parameter name="country" value="iceland" />
+		<classes>
+			<class name="test.AddContactTest" />
+		</classes>
+	</test>
+	
+</suite>
