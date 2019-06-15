@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite name="TestSuite" duration-ms="12866" started-at="2019-06-15T18:29:25Z" finished-at="2019-06-15T18:29:38Z">
+  <suite started-at="2019-06-15T19:00:15Z" name="TestSuite" finished-at="2019-06-15T19:00:27Z" duration-ms="12557">
     <groups>
     </groups>
-    <test name="AddContactTest" duration-ms="12866" started-at="2019-06-15T18:29:25Z" finished-at="2019-06-15T18:29:38Z">
+    <test started-at="2019-06-15T19:00:15Z" name="AddContactTest" finished-at="2019-06-15T19:00:27Z" duration-ms="12557">
       <class name="test.AddContactTest">
-        <test-method status="PASS" signature="usersCanAddContact(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.AddContactTest@7a9273a8]" name="usersCanAddContact" duration-ms="12842" started-at="2019-06-15T18:29:25Z" finished-at="2019-06-15T18:29:38Z">
+        <test-method signature="usersCanAddContact(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.AddContactTest@192d43ce]" started-at="2019-06-15T19:00:15Z" name="usersCanAddContact" finished-at="2019-06-15T19:00:27Z" duration-ms="12519" status="PASS">
           <params>
             <param index="0">
               <value>
